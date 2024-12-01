@@ -1,0 +1,20 @@
+let myName ='Akua';
+console.log(myName);
+let myAge = 30;
+console.log = (myAge);
+let sum = 12 + 56;
+console.log = (sum);
+let difference = 57 - 36;
+console.log = (difference);
+let quotient = 40 / 5;
+console.log = (quotient);
+let product = 10 * 15;
+console.log = (product);
+let remainder = 15 % 4;
+console.log = (remainder);
+let isEvening = "false";
+console.log = (isEvening);
+let myNumber = 120;
+console.log = (typeof myNumber);
+let myString = 'My lovely friends'
+console.log = (typeof myString)
