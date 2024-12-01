@@ -16,5 +16,5 @@ let isEvening = "false";
 console.log = (isEvening);
 let myNumber = 120;
 console.log = (typeof myNumber);
-let myString = 'My lovely friends';
+let myString = 'Hi, my lovely friends!';
 console.log = (typeof myString);
